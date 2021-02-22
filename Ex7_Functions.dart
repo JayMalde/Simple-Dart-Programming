@@ -3,7 +3,7 @@ main(List<String> args) {
   func2(1);
   print(func3(45, 3));
   print(printMsg());
-  print(add(3, 4));
+  print(mul(3, 4));
 }
 
 void func1() {
